@@ -2,7 +2,7 @@
 #无需学会idapython 的使用，直接调用该类下的接口即可获得函数
 
 #系统ida所在的路径
-idapath = 'idat64'
+idapath = "/home/hz/idafree-7.0/ida64"
 import os,time,commands,json
 import argparse
 
